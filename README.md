@@ -22,7 +22,7 @@ Source : https://www.youtube.com/watch?v=xF2w9xarPQ8
 - Cocher "Autoriser l'accès aux URL de fichier"
 - Fermer et réouvrir Chrome
 - Depuis le bouton Extensions, afficher le petit icône de LiveReload
-![ST-extension-livereload](https://user-images.githubusercontent.com/7870896/146778726-49f6c4eb-377a-4b8b-917b-63241f4fca52.png)
+![ST-extension-livereload](ST-extension-livereload-2.png)
 - Se placer sur son fichier à tester, par exemple `file:///C:/Users/arkhu/Google%20Drive/Dev/Javascript/_Examples/ex01-stopwatch/index.html`
 - Cliquer sur le petit icône LiveReload pour l'activer sur ce fichier
 > Note : l'aspect de l'icône change légèrement : le petit carré central devient plein
