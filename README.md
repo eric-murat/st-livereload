@@ -27,5 +27,5 @@ Source : https://www.youtube.com/watch?v=xF2w9xarPQ8
 - Cliquer sur le petit icône LiveReload pour l'activer sur ce fichier
 > Note : l'aspect de l'icône change légèrement : le petit carré central devient plein
 
-![ST-extension-livereload-2](https://user-images.githubusercontent.com/7870896/146778729-65a8dff3-8c9b-458d-874d-08aabad28fb6.png)
+![ST-extension-livereload-2](ST-extension-livereload-2.png)
 
